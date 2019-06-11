@@ -10,7 +10,7 @@ import org.apache.hadoop.fs.{FileSystem,Path,FileUtil,FileStatus}
 import java.time.format.DateTimeFormatter
 import java.time.LocalDateTime
 
-object nxLive {
+object logsLive {
 
 def main(args: Array[String]) {
 
