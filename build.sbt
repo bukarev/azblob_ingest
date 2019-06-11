@@ -1,4 +1,4 @@
-name := "NetXpress Live data process"
+name := "Logs Live data process"
 
 version := "0.0.1"
 
